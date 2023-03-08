@@ -12,6 +12,7 @@ console.log(a+b)
 a = 10;
 console.log(a+b)
 
+//You cannot re-declare a variable declared with let or const.
 //constant values and cannot be changed.
 const p = 4;
 const q = 5;
